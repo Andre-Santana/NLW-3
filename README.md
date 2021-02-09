@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/hebertcisco/happy/master/web/src/images/logo.svg" > </h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/hebertcisco/happy/master/web/src/images/logo.svg" > </div>
 
 ## Projeto 💻
 
